@@ -1,0 +1,6 @@
+Miguel Angel Restrepo Tangarife
+Edad: 22
+
+Tengo como expectativa apreder a manejar POO de manera optima y buena en lo que es Python y Java 
+
+Una carpeta no puede estar vacia o la tomara como error, por que que hay que tener cuidado con los datos que se suben y se hacen Commit y Push
